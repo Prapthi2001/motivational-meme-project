@@ -1,0 +1,30 @@
+.boxyy{
+  margin-top: 100px;
+  align-items: center;
+  width:50%;
+  margin-left: 25%;
+  text-align: center;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+}
+body{
+  background-color: black;
+}
+h1{
+  text-transform:uppercase;
+  font-size: 2rem;
+}
+.image{
+  border: 5px solid white;
+  width: 100%;
+}
+.button{
+  background-color: black;
+  color: white;
+  border: white 2px solid;
+  padding: 10px 20px;
+  border-radius: 22px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: medium;
+
+}
